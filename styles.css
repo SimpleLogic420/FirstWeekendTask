@@ -1,0 +1,32 @@
+#navbar{
+  position: fixed;
+  width: 50%;
+  top: 0;
+  left: 0;
+}
+@media  screen and (max-width: 600px) {
+    #navbar {
+      width:90%;
+     
+    }
+}
+#navbar_ul{
+    background-color:black;
+    opacity:0.6;
+  }
+  #navbar:hover{
+    opacity:0.7;
+    
+  }
+  
+  
+
+ul {
+    margin: 0;
+    padding: 20px 50px;
+  }
+  
+  li {
+    display: inline;
+    padding:10px;
+  }
