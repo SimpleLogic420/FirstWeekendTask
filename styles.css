@@ -66,39 +66,39 @@ background-color: #FF2442;
     height: 33%;
     display: inline;
     position: absolute;
-    right: 20%;
+    right: 300px;
 }
 .sports_imgB{
     width: 33%;
     height: 33%;
     display: inline;
     position: absolute;
-    right: 20%;
-    top: 82%; 
+    right: 300px;
+    top: 620px; 82
 }
 .sports_imgFT{
     width: 33%;
     height: 33%;
     display: inline;
     position: absolute;
-    right: 20%;
-    top: 130%; 
+    right: 300px;
+    top: 982px; 
 }
 .sports_imgBX{
     width: 33%;
     height: 33%;
     display: inline;
     position: absolute;
-    right: 20%;
-    top: 185%; 
+    right: 300px;
+    top: 1398px; 
 }
 .sports_imgFV{
     width: 33%;
     height: 33%;
     display: inline;
     position: absolute;
-    right: 20%;
-    top: 240%; 
+    right: 300px;
+    top: 1908px; 
 }
 .nogoodheader{
     opacity: 0;
